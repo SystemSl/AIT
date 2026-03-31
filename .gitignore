@@ -2,3 +2,11 @@ lab_1-2/.ipynb_checkpoints
 lab_1-2/scripts/__pycache__
 lab_1-2/scripts/datasets/cifar-10-batches-py
 lab_1-2/scripts/classifiers/__pycache__
+
+lab_3/.ipynb_checkpoints
+lab_3/scripts/__pycache__
+lab_3/scripts/datasets/cifar-10-batches-py
+lab_3/scripts/classifiers/__pycache__
+lab_3/scripts/build
+lab_3/scripts/im2col_cython.c
+lab_3/scripts/im2col_cython.cp313-win_amd64.pyd
